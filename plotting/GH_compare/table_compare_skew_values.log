@@ -1,0 +1,755 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.3.21)  2 APR 2014 16:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**table_compare_skew_values.tex
+(./table_compare_skew_values.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
+Document Class: revtex4 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
+Package: revsymb 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+LaTeX Info: Redefining \frak on input line 99.
+LaTeX Info: Redefining \Bbb on input line 101.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen102
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen104
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip11
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks18
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks19
+\eqnshift@=\dimen105
+\alignsep@=\dimen106
+\tagshift@=\dimen107
+\tagwidth@=\dimen108
+\totwidth@=\dimen109
+\lineht@=\dimen110
+\@envbody=\toks20
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/aps.rtx
+File: aps.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/10pt.rtx
+File: 10pt.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks23
+\extratabsurround=\skip48
+\backup@length=\skip49
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen115
+\epsfysize=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+
+! LaTeX Error: File `wrapfig.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(./table_compare_skew_values.aux
+
+LaTeX Warning: Label `eiz65' multiply defined.
+
+
+LaTeX Warning: Label `eiz65' multiply defined.
+
+
+LaTeX Warning: Label `eiz65' multiply defined.
+
+
+LaTeX Warning: Label `eiz65' multiply defined.
+
+
+LaTeX Warning: Label `eiz65' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+)
+\openout1 = `table_compare_skew_values.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+Class revtex4 Info: Patching array package. on input line 23.
+Class revtex4 Info: cite was not loaded (OK!) on input line 23.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 23.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen117
+\scratchbox=\box36
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen118
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+Class revtex4 Warning: Assuming \noaffiliation for April 2, 2014.
+
+<prop_plots/65w65_eps2.pdf, id=1, 578.16pt x 433.62pt>
+File: prop_plots/65w65_eps2.pdf Graphic file (type pdf)
+
+<use prop_plots/65w65_eps2.pdf>
+Package pdftex.def Info: prop_plots/65w65_eps2.pdf used on input line 50.
+(pdftex.def)             Requested size: 203.99689pt x 152.99332pt.
+
+<prop_plots/65w65_eiz.pdf, id=2, 578.16pt x 433.62pt>
+File: prop_plots/65w65_eiz.pdf Graphic file (type pdf)
+
+<use prop_plots/65w65_eiz.pdf>
+Package pdftex.def Info: prop_plots/65w65_eiz.pdf used on input line 56.
+(pdftex.def)             Requested size: 203.99689pt x 152.99332pt.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 60.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 60.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 60.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 60.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 60.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 60.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 60.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 60.
+
+<prop_plots/91w91_eps2.pdf, id=3, 578.16pt x 433.62pt>
+File: prop_plots/91w91_eps2.pdf Graphic file (type pdf)
+
+<use prop_plots/91w91_eps2.pdf>
+Package pdftex.def Info: prop_plots/91w91_eps2.pdf used on input line 70.
+(pdftex.def)             Requested size: 203.99689pt x 152.99332pt.
+
+<prop_plots/91w91_eiz.pdf, id=4, 578.16pt x 433.62pt>
+File: prop_plots/91w91_eiz.pdf Graphic file (type pdf)
+
+<use prop_plots/91w91_eiz.pdf>
+Package pdftex.def Info: prop_plots/91w91_eiz.pdf used on input line 76.
+(pdftex.def)             Requested size: 203.99689pt x 152.99332pt.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 80.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 80.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 80.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 80.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 80.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 80.
+
+<prop_plots/93w93_eps2.pdf, id=5, 578.16pt x 433.62pt>
+File: prop_plots/93w93_eps2.pdf Graphic file (type pdf)
+
+<use prop_plots/93w93_eps2.pdf>
+Package pdftex.def Info: prop_plots/93w93_eps2.pdf used on input line 90.
+(pdftex.def)             Requested size: 203.99689pt x 152.99332pt.
+
+<prop_plots/93w93_eiz.pdf, id=6, 578.16pt x 433.62pt>
+File: prop_plots/93w93_eiz.pdf Graphic file (type pdf)
+
+<use prop_plots/93w93_eiz.pdf>
+Package pdftex.def Info: prop_plots/93w93_eiz.pdf used on input line 96.
+(pdftex.def)             Requested size: 203.99689pt x 152.99332pt.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 100.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 100.
+
+<prop_plots/290w290_eps2.pdf, id=7, 578.16pt x 433.62pt>
+File: prop_plots/290w290_eps2.pdf Graphic file (type pdf)
+
+<use prop_plots/290w290_eps2.pdf>
+Package pdftex.def Info: prop_plots/290w290_eps2.pdf used on input line 110.
+(pdftex.def)             Requested size: 203.99689pt x 152.99332pt.
+
+<prop_plots/290w290_eiz.pdf, id=8, 578.16pt x 433.62pt>
+File: prop_plots/290w290_eiz.pdf Graphic file (type pdf)
+
+<use prop_plots/290w290_eiz.pdf>
+Package pdftex.def Info: prop_plots/290w290_eiz.pdf used on input line 116.
+(pdftex.def)             Requested size: 203.99689pt x 152.99332pt.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 120.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 120.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 120.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 120.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 120.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 120.
+
+<two_water_LDS.pdf, id=9, 1734.48pt x 875.37035pt>
+File: two_water_LDS.pdf Graphic file (type pdf)
+ <use two_water_LDS.pdf>
+Package pdftex.def Info: two_water_LDS.pdf used on input line 134.
+(pdftex.def)             Requested size: 483.69684pt x 244.1136pt.
+
+<plots/65_A_vs_n.pdf, id=10, 578.16pt x 433.62pt>
+File: plots/65_A_vs_n.pdf Graphic file (type pdf)
+ <use plots/65_A_vs_n.pdf>
+Package pdftex.def Info: plots/65_A_vs_n.pdf used on input line 153.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 153--154
+ [] 
+ []
+
+<plots/140322_65w65_HCs_perpendicular_ret.pdf, id=11, 578.16pt x 433.62pt>
+File: plots/140322_65w65_HCs_perpendicular_ret.pdf Graphic file (type pdf)
+
+<use plots/140322_65w65_HCs_perpendicular_ret.pdf>
+Package pdftex.def Info: plots/140322_65w65_HCs_perpendicular_ret.pdf used on i
+nput line 159.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 159--160
+ [] 
+ []
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 163.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 163.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 163.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 163.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 163.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 163.
+
+<plots/90_A_vs_n.pdf, id=12, 578.16pt x 433.62pt>
+File: plots/90_A_vs_n.pdf Graphic file (type pdf)
+ <use plots/90_A_vs_n.pdf>
+Package pdftex.def Info: plots/90_A_vs_n.pdf used on input line 173.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 173--174
+ [] 
+ []
+
+<plots/140322_90w90_HCs_perpendicular_ret.pdf, id=13, 578.16pt x 433.62pt>
+File: plots/140322_90w90_HCs_perpendicular_ret.pdf Graphic file (type pdf)
+
+<use plots/140322_90w90_HCs_perpendicular_ret.pdf>
+Package pdftex.def Info: plots/140322_90w90_HCs_perpendicular_ret.pdf used on i
+nput line 179.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 179--180
+ [] 
+ []
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 183.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 183.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 183.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 183.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 183.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 183.
+
+<plots/91_A_vs_n.pdf, id=14, 578.16pt x 433.62pt>
+File: plots/91_A_vs_n.pdf Graphic file (type pdf)
+ <use plots/91_A_vs_n.pdf>
+Package pdftex.def Info: plots/91_A_vs_n.pdf used on input line 193.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 193--194
+ [] 
+ []
+
+<plots/140322_91w91_HCs_perpendicular_ret.pdf, id=15, 578.16pt x 433.62pt>
+File: plots/140322_91w91_HCs_perpendicular_ret.pdf Graphic file (type pdf)
+
+<use plots/140322_91w91_HCs_perpendicular_ret.pdf>
+Package pdftex.def Info: plots/140322_91w91_HCs_perpendicular_ret.pdf used on i
+nput line 199.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 199--200
+ [] 
+ []
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 203.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 203.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 203.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 203.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 203.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 203.
+
+<plots/93_A_vs_n.pdf, id=16, 578.16pt x 433.62pt>
+File: plots/93_A_vs_n.pdf Graphic file (type pdf)
+ <use plots/93_A_vs_n.pdf>
+Package pdftex.def Info: plots/93_A_vs_n.pdf used on input line 213.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 213--214
+ [] 
+ []
+
+<plots/140322_93w93_HCs_perpendicular_ret.pdf, id=17, 578.16pt x 433.62pt>
+File: plots/140322_93w93_HCs_perpendicular_ret.pdf Graphic file (type pdf)
+
+<use plots/140322_93w93_HCs_perpendicular_ret.pdf>
+Package pdftex.def Info: plots/140322_93w93_HCs_perpendicular_ret.pdf used on i
+nput line 219.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 219--220
+ [] 
+ []
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 223.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 223.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 223.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 223.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 223.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 223.
+
+<plots/290_A_vs_n.pdf, id=18, 578.16pt x 433.62pt>
+File: plots/290_A_vs_n.pdf Graphic file (type pdf)
+ <use plots/290_A_vs_n.pdf>
+Package pdftex.def Info: plots/290_A_vs_n.pdf used on input line 233.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 233--234
+ [] 
+ []
+
+<plots/140322_290w290_HCs_perpendicular_ret.pdf, id=19, 578.16pt x 433.62pt>
+File: plots/140322_290w290_HCs_perpendicular_ret.pdf Graphic file (type pdf)
+
+<use plots/140322_290w290_HCs_perpendicular_ret.pdf>
+Package pdftex.def Info: plots/140322_290w290_HCs_perpendicular_ret.pdf used on
+ input line 239.
+(pdftex.def)             Requested size: 244.79564pt x 183.59464pt.
+
+Overfull \hbox (40.79875pt too wide) in paragraph at lines 239--240
+ [] 
+ []
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 243.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 243.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 243.
+
+
+LaTeX Warning: Reference `pars-31' on page 1 undefined on input line 243.
+
+
+LaTeX Warning: Reference `pars-31-g' on page 1 undefined on input line 243.
+
+
+LaTeX Warning: Reference `eq:adef' on page 1 undefined on input line 243.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./prop_plots/65w65_eps2.
+pdf> <./prop_plots/65w65_eiz.pdf
+
+pdfTeX warning: pdflatex (file ./prop_plots/65w65_eiz.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./prop_plots/91w91_eps2.pdf
+
+pdfTeX warning: pdflatex (file ./prop_plots/91w91_eps2.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+> <./prop_plots/91w91_eiz.pdf
+
+pdfTeX warning: pdflatex (file ./prop_plots/91w91_eiz.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>] [2 <./prop_plots/93w93_eps2.pdf> <./prop_plots/93w93_eiz.pdf
+
+pdfTeX warning: pdflatex (file ./prop_plots/93w93_eiz.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./prop_plots/290w290_eps2.pdf
+
+pdfTeX warning: pdflatex (file ./prop_plots/290w290_eps2.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+> <./prop_plots/290w290_eiz.pdf
+
+pdfTeX warning: pdflatex (file ./prop_plots/290w290_eiz.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>] [3 <./two_water_LDS.pdf> <./plots/65_A_vs_n.pdf
+
+pdfTeX warning: pdflatex (file ./plots/65_A_vs_n.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+> <./plots/140322_65w65_HCs_perpendicular_ret.pdf
+
+pdfTeX warning: pdflatex (file ./plots/140322_65w65_HCs_perpendicular_ret.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+>] [4 <./plots/90_A_vs_n.pdf> <./plots/140322_90w90_HCs_perpendicular_ret.pdf
+
+pdfTeX warning: pdflatex (file ./plots/140322_90w90_HCs_perpendicular_ret.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+> <./plots/91_A_vs_n.pdf
+
+pdfTeX warning: pdflatex (file ./plots/91_A_vs_n.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+> <./plots/140322_91w91_HCs_perpendicular_ret.pdf
+
+pdfTeX warning: pdflatex (file ./plots/140322_91w91_HCs_perpendicular_ret.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+>] [5 <./plots/93_A_vs_n.pdf> <./plots/140322_93w93_HCs_perpendicular_ret.pdf
+
+pdfTeX warning: pdflatex (file ./plots/140322_93w93_HCs_perpendicular_ret.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+> <./plots/290_A_vs_n.pdf
+
+pdfTeX warning: pdflatex (file ./plots/290_A_vs_n.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+> <./plots/140322_290w290_HCs_perpendicular_ret.pdf
+
+pdfTeX warning: pdflatex (file ./plots/140322_290w290_HCs_perpendicular_ret.pdf
+): PDF inclusion: multiple pdfs with page group included in a single page
+>] [6] (./table_compare_skew_values.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4217 strings out of 495059
+ 55941 string characters out of 3182030
+ 139484 words of memory out of 3000000
+ 7314 multiletter control sequences out of 15000+200000
+ 10754 words of font info for 40 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,9n,26p,1287b,390s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy9.pfb>
+Output written on table_compare_skew_values.pdf (6 pages, 527793 bytes).
+PDF statistics:
+ 1130 PDF objects out of 1200 (max. 8388607)
+ 374 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

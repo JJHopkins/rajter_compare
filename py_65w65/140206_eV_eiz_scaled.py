@@ -6,11 +6,11 @@ from pylab import *
 #from pylab import show
 from matplotlib import pyplot as pl
 
-#x_x,y_x = np.loadtxt('data/CNT6_5_xe2_solid_30.txt',unpack=True, usecols = [0,1])
-#x_z,y_z = np.loadtxt('data/CNT6_5_ze2_solid_30.txt',unpack=True, usecols = [0,1])
+x_x,y_x = np.loadtxt('data/CNT6_5_xe2_solid_30.txt',unpack=True, usecols = [0,1])
+x_z,y_z = np.loadtxt('data/CNT6_5_ze2_solid_30.txt',unpack=True, usecols = [0,1])
 
-x_x,y_x = np.loadtxt('data/CNT9_0_xe2_solid_30.txt',unpack=True, usecols = [0,1])
-x_z,y_z = np.loadtxt('data/CNT9_0_ze2_solid_30.txt',unpack=True, usecols = [0,1])
+#x_x,y_x = np.loadtxt('data/CNT9_0_xe2_solid_30.txt',unpack=True, usecols = [0,1])
+#x_z,y_z = np.loadtxt('data/CNT9_0_ze2_solid_30.txt',unpack=True, usecols = [0,1])
 
 #x_x,y_x = np.loadtxt('data/CNT9_1_xe2_solid_30.txt',unpack=True, usecols = [0,1])
 #x_z,y_z = np.loadtxt('data/CNT9_1_ze2_solid_30.txt',unpack=True, usecols = [0,1])
@@ -52,11 +52,11 @@ for j in range(len(z)):
         eiz_w_arg[p]=x_w[p]*y_w[p] / (x_w[p]**2 + z[j]**2)
     eiz_w[j] = 1 + (2./pi) * trapz(eiz_w_arg,x_w)    
 
-#savetxt("data/eiz_x_65.txt", eiz_x)
-#savetxt("data/eiz_z_65.txt", eiz_z)
+savetxt("data/eiz_x_65.txt", eiz_x)
+savetxt("data/eiz_z_65.txt", eiz_z)
 
-savetxt("data/eiz_x_90.txt", eiz_x)
-savetxt("data/eiz_z_90.txt", eiz_z)
+#savetxt("data/eiz_x_90.txt", eiz_x)
+#savetxt("data/eiz_z_90.txt", eiz_z)
 
 #savetxt("data/eiz_x_91.txt", eiz_x)
 #savetxt("data/eiz_z_91.txt", eiz_z)
@@ -91,11 +91,12 @@ pl.plot(x_w,y_w, color = 'c', label = r'$\varepsilon^{\prime\prime}_{H_{2}O}(\om
 pl.xlabel(r'$\hbar\omega\,\,\,[eV]$', size = 24)
 pl.ylabel(r'$\varepsilon^{\prime\prime}(\omega)$', size = 24)
 pl.legend()
-#pl.title(r'[6,5] and water eps2')
+pl.title(r'[6,5] and water eps2')
 #pl.savefig('plots/140306_65w65_eps2.pdf')
 pl.show()
 #pl.close()
 #imshow(1)
+pl.savefig('plots/low_eV_eps2_65.pdf')
 #pl.savefig('plots/131010_Hopkins_CG10_eps2_x_z.png', dpi = 300 )
 #
 ##pl.figure()
